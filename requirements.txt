@@ -1,0 +1,9 @@
+pyqt5
+base64
+base68
+hashlib
+cryptography
+time
+urllib.parse
+string
+random

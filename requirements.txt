@@ -1,6 +1,6 @@
 pyqt5
 base64
-base68
+base58
 hashlib
 cryptography
 time

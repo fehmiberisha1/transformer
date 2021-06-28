@@ -2,7 +2,7 @@
 
 CONVERSION: Between Ascii, Binary, Octal, Decimal and Hexadecimal.
 
-CIPHERING / DECIPHERING: ROT13, ROT47, Caesar's Cipher, Morse Code, Baconian Cipher, Super Cipher :)
+CIPHERING / DECIPHERING: ROT13, ROT47, Caesar's Cipher, Morse Code, Baconian Cipher, Super Cipher
 
 HASHING: MD5, SHA2-256, SHA2-384, SHA2-512, SHA3-256, SHA3-384, SHA3-512, Blake2s, Blake2b.
 

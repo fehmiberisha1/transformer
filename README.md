@@ -1,4 +1,4 @@
-# transformer
+# converter
 
 Conversion: Between Ascii, Binary, Octal, Decimal and Hexadecimal.
 

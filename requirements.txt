@@ -1,9 +1,3 @@
 pyqt5
-base64
 base58
-hashlib
 cryptography
-time
-urllib.parse
-string
-random
